@@ -1,5 +1,8 @@
-Added this line in css-assignment branch.
+
+just created a branch html-assignment.
 
 Assignment folder will be contain files of HTML,CSS,JavaScript.
 
-just created a branch html-assignment.
+Added this line in css-assignment branch.
+
+Added this line  in master branch (Section 2 cssfile.css)
